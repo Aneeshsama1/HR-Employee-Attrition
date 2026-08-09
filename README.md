@@ -35,4 +35,4 @@ are most at risk of attrition.
 - Bar chart: Attrition by Age Group
 
 ## Kaggle Notebook
-[View full notebook here](your-kaggle-link)
+[View full notebook here](kaggle kernels output aneeshsama/notebook89ae8f33c8 -p /path/to/dest)
